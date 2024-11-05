@@ -48,4 +48,17 @@ Attrition refers to a gradual reduction in the workforce due to factors like res
 - **Doughnut Chart**: Shows attrition count by department.
 - **Bar Chart**: Visualizes attrition by educational field.
 - **Pie Chart**: Displays attrition by gender.
+## Insights from HR Data
+
+1. Departmental Attrition:
+- **R&D Department has the highest attrition count (133, or 56.12%)**.
+- **HR Department has the lowest attrition count (12, or 38.06%)**.
+2. Attrition by Educational Field:
+- **The Life Sciences field has the highest attrition count (89), followed by the Medical field (63)**.
+- **Human Resources has the lowest attrition count (7). This may be due to the constant professional development demands in Life Sciences and Medical fields**.
+3. Gender-Based Attrition:
+- **Male employees have a higher attrition count (150, or 63.29%) compared to female employees (87, or 36.71%)**.
+
+## Recommendations
+To improve employee retention, the company should develop a career advancement plan for its employees. This initiative would provide growth opportunities within their fields, enhancing employee satisfaction and retention.
 

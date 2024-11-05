@@ -22,10 +22,10 @@ The HR dataset was downloaded as a CSV file. It includes various employee detail
 1. Data Download: Sourced data as a CSV file.
 2. Data Cleaning: Performed data cleaning to prepare the dataset for analysis.
 3. Data Transformation:
--  **Changed data types**
--  **Promoted headers**
--  **Added conditional columns**
--  **Renamed columns as needed**
+-  Changed data types
+-  Promoted header
+-  Added conditional column
+-  Renamed columns as needed
   
 ![image](https://github.com/user-attachments/assets/91a0cd14-490b-4d16-a322-624bf3164562)
 
@@ -45,19 +45,19 @@ Attrition refers to a gradual reduction in the workforce due to factors like res
 1. Employee Count: Displayed using a card visual to show the total number of employees.
 2. Attrition Rate: Calculated as 16% using a custom measure.
 3. Charts Used:
-- **Doughnut Chart**: Shows attrition count by department.
-- **Bar Chart**: Visualizes attrition by educational field.
-- **Pie Chart**: Displays attrition by gender.
+-  Doughnut Chart: Shows attrition count by department.
+- Bar Chart: Visualizes attrition by educational field.
+- Pie Chart: Displays attrition by gender.
 ## Insights from HR Data
 
 1. Departmental Attrition:
-- **R&D Department has the highest attrition count (133, or 56.12%)**.
-- **HR Department has the lowest attrition count (12, or 38.06%)**.
+-  R&D Department has the highest attrition count (133, or 56.12%).
+-  HR Department has the lowest attrition count (12, or 38.06%).
 2. Attrition by Educational Field:
-- **The Life Sciences field has the highest attrition count (89), followed by the Medical field (63)**.
-- **Human Resources has the lowest attrition count (7). This may be due to the constant professional development demands in Life Sciences and Medical fields**.
+-  The Life Sciences field has the highest attrition count (89), followed by the Medical field (63).
+-  Human Resources has the lowest attrition count (7). This may be due to the constant professional development demands in Life Sciences and Medical fields.
 3. Gender-Based Attrition:
-- **Male employees have a higher attrition count (150, or 63.29%) compared to female employees (87, or 36.71%)**.
+-  Male employees have a higher attrition count (150, or 63.29%) compared to female employees (87, or 36.71%).
 
 ## Recommendations
 To improve employee retention, the company should develop a career advancement plan for its employees. This initiative would provide growth opportunities within their fields, enhancing employee satisfaction and retention.
